@@ -1,0 +1,54 @@
+RUN	computerdatabase.EachUserCallSimulation	eachusercallsimulation	1622969820713	 	3.6.0
+USER	GetEmployeesScenario	START	1622969824360
+USER	GetRequestScenario	START	1622969824360
+REQUEST		getEmployees	1622969824404	1622969825925	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969825331	1622969826208	OK	 
+REQUEST		getEmployees	1622969826340	1622969826340	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969827340	1622969827382	OK	 
+REQUEST		getEmployees	1622969828351	1622969828351	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969829340	1622969829382	OK	 
+REQUEST		getEmployees	1622969830351	1622969830351	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969831347	1622969831387	OK	 
+REQUEST		getEmployees	1622969832329	1622969832330	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969833346	1622969833394	OK	 
+REQUEST		getEmployees	1622969834328	1622969834328	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969835324	1622969835366	OK	 
+REQUEST		getEmployees	1622969836339	1622969836344	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969837323	1622969837365	OK	 
+REQUEST		getEmployees	1622969838339	1622969838340	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969839339	1622969839378	OK	 
+REQUEST		getEmployees	1622969840340	1622969840340	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969841347	1622969841387	OK	 
+REQUEST		getEmployees	1622969842321	1622969842321	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969843339	1622969843390	OK	 
+REQUEST		getEmployees	1622969844348	1622969844348	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969845335	1622969845378	OK	 
+REQUEST		getEmployees	1622969846336	1622969846336	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969847319	1622969847359	OK	 
+REQUEST		getEmployees	1622969848346	1622969848349	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969849324	1622969849363	OK	 
+REQUEST		getEmployees	1622969850354	1622969850354	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969851329	1622969851375	OK	 
+REQUEST		getEmployees	1622969852339	1622969852339	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969853349	1622969853388	OK	 
+REQUEST		getEmployees	1622969854320	1622969854320	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969855345	1622969855388	OK	 
+REQUEST		getEmployees	1622969856330	1622969856330	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969857341	1622969857408	OK	 
+REQUEST		getEmployees	1622969858339	1622969858339	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969859339	1622969859382	OK	 
+REQUEST		getEmployees	1622969860349	1622969860355	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969861319	1622969861361	OK	 
+REQUEST		getEmployees	1622969862340	1622969862340	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969863340	1622969863382	OK	 
+REQUEST		getEmployees	1622969864346	1622969864346	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969865319	1622969865360	OK	 
+REQUEST		getEmployees	1622969866339	1622969866339	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969867346	1622969867389	OK	 
+REQUEST		getEmployees	1622969868319	1622969868319	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969869346	1622969869387	OK	 
+REQUEST		getEmployees	1622969870324	1622969870324	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969871339	1622969871383	OK	 
+REQUEST		getEmployees	1622969872340	1622969872344	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
+REQUEST		getRequest	1622969873349	1622969873394	OK	 
+REQUEST		getEmployees	1622969874320	1622969874320	KO	j.n.UnknownHostException: dummy.restapiexample.comapi
